@@ -6,6 +6,9 @@ body {
 header {
     height: 420px;
     background:url(imgs/bg_laptop.jpg);
+    width: 1280px;
+    display: block;
+    margin: auto;
 }
 header nav {
     background: rgba(211,211,211,0.9);
