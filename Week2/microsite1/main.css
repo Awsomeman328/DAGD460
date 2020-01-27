@@ -94,11 +94,11 @@ footer nav ul ul{
 }
 footer nav ul ul li{
     font-size: 13px;
-    text-decoration: none;
-    color: #7b7b7b;
+    
 }
 footer nave ul ul li a{
-    
+    text-decoration: none;
+    color: #7b7b7b;
     
 }
 

@@ -71,12 +71,14 @@ section {
     height: 1000px;
     display: block;
     margin: auto;
+    position: relative;
 }
 
 section form {
     width: 820px;
     height: 350px;
     margin: -395px 40px;
+    position: relative;
 }
 
 section form input {
