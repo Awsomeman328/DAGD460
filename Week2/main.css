@@ -10,6 +10,28 @@ header {
     display: block;
     margin: auto;
 }
+#awards {
+    height: 349px;
+    background: url(imgs/Awards.png);
+    width: 1280px;
+    display: block;
+    margin: auto;
+}
+#products {
+    height: 360px;
+    background: url(imgs/Products.png);
+    width: 1280px;
+    display: block;
+    margin: auto;
+}
+#contact {
+    height: 321px;
+    background: url(imgs/Contact.png);
+    width: 1280px;
+    display: block;
+    margin: auto;
+}
+
 header nav {
     background: rgba(211,211,211,0.9);
     height: 62px;
@@ -47,4 +69,44 @@ header nav ul li a:hover {
     height: 41px;
     float: left;
     margin: 9px 0 0 50px;
+}
+
+footer{
+    height: 200px;
+    background: url(imgs/Footer.png);
+    width: 1280px;
+    display: block;
+    margin: auto;
+}
+footer nav{
+    background-color: #222;
+    height: 154px
+}
+footer nav ul{
+    list-style: none;
+    margin: 24px 28px 0px 35px;
+    padding: 0;
+    float: left;
+}
+footer nav ul ul{
+    text-decoration: none;
+    color: #7b7b7b;
+}
+footer nav ul ul li{
+    font-size: 13px;
+    text-decoration: none;
+    color: #7b7b7b;
+}
+footer nave ul ul li a{
+    
+    
+}
+
+#icon{
+    float: right;
+    margin: 26px 43px 0px 0px
+}
+#icon2 li {
+ float: left;  
+    margin: 2px;
 }
